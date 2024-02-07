@@ -33,8 +33,4 @@ yeniden.addEventListener('click',function(){
     document.querySelector('.section2').style.display='block'
     document.querySelector('.section3').style.display='none'
 })
-window.addEventListener("keyup",function(e){
-    if(e.key=="Enter"){
 
-    }
-})
