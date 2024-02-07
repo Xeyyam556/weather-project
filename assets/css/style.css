@@ -1,0 +1,58 @@
+
+.btn{
+    height: 40px;
+    width: 100px;
+    margin-left: 720px;
+    margin-top: 40px ;
+    border-radius: 15px;
+    border: 2px solid aqua;
+    font-size: 20px
+}
+.inp{
+    margin-left: 570px;
+    margin-top: 100px;
+    height: 40px;
+    width: 400px;
+    border-radius: 15px;
+    border: 2px solid aqua;
+    font-size: 20px;
+}
+.h1{
+    text-align: center;
+    font-size: 80px;
+    
+    font-family: 'Space Grotesk', sans-serif;
+}
+.body {
+   background-color: aqua;
+      }
+.section2{
+    display: block;
+}
+.hava, .kul, .temp, .rut{
+    font-family: 'Space Grotesk', sans-serif;
+    margin-left: 450px;
+   margin-top: 40px;
+   font-size: 60px;
+   color:yellow;
+}
+.hava{
+    margin-top: 100px;
+}
+.basliq{
+    color: black;
+    font-family: 'Space Grotesk', sans-serif;
+    text-align: center;
+    font-size: 80px;
+}
+.yeniden{
+    margin-top: 50px;
+    width: 200px;
+    margin-left: 650px;
+    height: 80px;
+    border-radius: 20px;
+    font-size: 30px;
+}
+.section3{
+    display: none;
+}
